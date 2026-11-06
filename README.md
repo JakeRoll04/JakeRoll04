@@ -36,7 +36,7 @@ My work focuses on **real-world applications**, especially in forecasting and sp
 - Weekly demand prediction with lag + rolling features
 - Model evaluation using RMSE, MAPE, WMAPE, Bias
 
-🔗 (Link Soon)
+🔗 Private Repo (NDA)
 
 ---
 
